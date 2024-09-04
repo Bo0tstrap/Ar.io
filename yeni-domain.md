@@ -2,7 +2,9 @@
 
 ⚠️Öncelikle domain aldığımız namecheap veya vs. nerden aldıysak oraya gidip eski domain den kayıtlı keyleri silelim.
 
-1️⃣ "nano .env"
+1️⃣  ```bash
+    nano .env
+    ```
 içine girelim yeni domani girelim
 
 ARNS_ROOT_HOST=<yeni-domain-adresiniz>
